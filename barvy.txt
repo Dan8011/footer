@@ -1,0 +1,30 @@
+1 FIALOVÁ 
+
+
+
+Primary: #6c63ff
+Dark: #3f3d9e
+Background: #f4f6f9
+Text: #111 / #555
+
+
+
+
+
+2 MODRÁ 
+
+Primary: #2563eb
+Dark: #1e40af
+Background: #f8fafc
+Text: #0f172a
+
+
+3 ZELENÁ 
+
+
+
+Primary: #22c55e
+Dark: #15803d
+Background: #f0fdf4
+Text: #052e16
+
